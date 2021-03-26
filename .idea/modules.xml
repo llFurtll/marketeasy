@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/marketeasy.iml" filepath="$PROJECT_DIR$/marketeasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/marketeasy_android.iml" filepath="$PROJECT_DIR$/android/marketeasy_android.iml" />
+    </modules>
+  </component>
+</project>
