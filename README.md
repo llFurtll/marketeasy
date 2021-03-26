@@ -67,10 +67,10 @@ Por fim, após o comando tenha finalizado, abra o emulador do android studio ou 
 </pre>
 
 ### :man:  Dev
-<a href="https://www.linkedin.com/in/daniel-melonari-5413a7197/">
+<a href="https://www.linkedin.com/in/daniel-melonari-5413a7197/" target="new">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48370450?v=4" width="100px;" height="100px" alt=""/>
  <br />
- <sub><b>Daniel Melonari</b></sub></a> <a href="https://www.linkedin.com/in/daniel-melonari-5413a7197/" title="Linkedin">🚀</a>
+ <sub><b>Daniel Melonari</b></sub></a> <a href="https://www.linkedin.com/in/daniel-melonari-5413a7197/" title="Linkedin" target="new">🚀</a>
 
 
 Feito com ❤️ por Daniel Melonari 👋🏽 Entre em contato!
